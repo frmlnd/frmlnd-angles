@@ -1,0 +1,13 @@
+{
+  "name": "frmlnd-angles",
+  "version": "0.1.0",
+  "homepage": "https://github.com/frmlnd/frmlnd-angles",
+  "authors": [
+    "Adam Penly <apenly@gmail.com>"
+  ],
+  "description": "An experiment with randomly-generated SVGs and color.",
+  "license": "MIT",
+  "devDependencies": {
+    "jquery": "1.11.2"
+  }
+}
